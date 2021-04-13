@@ -67,4 +67,4 @@ utilizando da ferramenta [Exiv2](https://exiv2.org/) tentei descobrir se havia a
 
 ### Conclusão sobre o segundo desafio
 
-Ainda não encontrei a mensagem secreta, porém ainda quero tentar uma coisa, analisando os pontos da imagem um pouco distante, a disposição deles parece bastante com a escrita em Braille, penso então em separar a em blocos de 3x6 pixels cada parte da imagem e analisar se onde existe a ocorrência de pixels verdes, esse coincidem com algum caractere em Braille
+Ainda não encontrei a mensagem secreta e ainda não escrevi nenhum código para isso, porém ainda quero tentar uma coisa, analisando os pontos da imagem um pouco distante, a disposição deles parece bastante com a escrita em Braille, penso então em separar a imagem em blocos de 3x6 pixels e analisar se onde existe a ocorrência de pixels verdes, esse coincidem com algum caractere em Braille
